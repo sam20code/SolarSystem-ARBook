@@ -4,4 +4,3 @@ I have created ARBook to make it understand what is ARBook and how does it funct
 I have taken my notebook on which I have pasted a printout of my image target and on the right page, I have written information about planets ao the moment we will point our camera to the image target our virtual 3D objects will appear.
 I am providing my video link for a better understanding
 
-https://drive.google.com/file/d/1c-MNo0c3e0THl2ikpv-gn5TIJcRVQYLP/view?usp=sharing
